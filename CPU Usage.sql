@@ -19,4 +19,4 @@ hist_cpuutil (vm,cpu) as (
   LIMIT 10000
 )
 
-SELECT DISTINCT vm, cpu FROM hist_cpuutil
+SELECT * FROM hist_cpuutil
