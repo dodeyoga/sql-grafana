@@ -1,3 +1,3 @@
-Ini adalah Repository SQL for Grafana
+Ini adalah Repository SQL untuk Grafana
 
 created by : dodeyoga
